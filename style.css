@@ -1,0 +1,36 @@
+.mydwn{
+    list-style-type: none;
+}
+#whoweare{
+    text-align: center;
+    font-family:sans-serif; 
+    font-weight: 500;
+    color: rgb(147, 7, 7);
+}
+#pp{
+    text-spacing-trim:auto;
+    font-size: medium;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding: 30px;
+    border-radius: 20px;
+    margin: 20px;
+    background-color: rgb(223, 156, 156);
+}
+#fff{
+    font-size: medium;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding: 300px;
+    border-radius: 20px;
+    margin: 20px;
+    background-color: rgb(179, 217, 249);
+}
+#ff{
+    padding:40px;
+    text-align: center;
+    font-size:xx-large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(57, 57, 104);
+}
+
